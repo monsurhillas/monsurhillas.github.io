@@ -6,25 +6,26 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Software Development Intern",
-    cardImage: "assets/images/experience-page/flipkart.jpg",
-    place: "Flipkart",
-    time: "(May, 2020 - present)",
-    desp: "<li>Worked to migrate Flipkart lite’s product page to AMP pages so that they load up instantly.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
+    title: "Student Worker",
+    cardImage: "assets/images/experience-page/sao.jpg",
+    place: "Office of Student Affairs, NSU",
+    time: "(Feb, 21 - Present)",
+    desp: "<li>Working on the web development section for the office</li><li>Building a Wordpress website for the office for better management of works</li><li>Another task is to maintain the website and optimize it.</li>",
   },
   {
-    title: "Student Developer",
-    cardImage: "assets/images/experience-page/gsoc.png",
-    place: "Google Summer Of Code",
-    time: "(Mar - Aug, 2019)",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    title: "Computer Vision Research Intern",
+    cardImage: "assets/images/experience-page/animo-ai.jpg",
+    place: "Animo.AI",
+    time: "(Jun, 21 - Aug, 21)",
+    desp: "<li>Worked to solve computer vision challenges that happend in the industry</li> <li>Contributed in the existing project related to computer vision</li>",
   },
+  
   {
-    title: "Research Intern",
-    cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
-    place: "IIT, Bombay",
-    time: "(Dec, 19 - Jan, 20)",
-    desp:"<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
+    title: "Machine Learning Intern",
+    cardImage: "assets/images/experience-page/nsuit.png",
+    place: "Information and Technology Department, NSU",
+    time: "(Feb, 21 - Jun, 21)",
+    desp:"<li>Worked on the Machine learning projects for the office</li><li>Led the team for building a chatbot where students can chat with the chatbot and get their desired answers</li>",
   },
 ];
 
