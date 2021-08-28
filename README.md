@@ -1,107 +1,84 @@
-<img width="80%" align="center" src="https://github.com/Dorota1997/react-frontend-dev-portfolio/blob/images/images/portfolio_mockup.png" alt="portfolio template mockup" /> <br/>
-<img height="350px" align="right" src="https://github.com/Dorota1997/react-frontend-dev-portfolio/blob/images/images/mobile-demo.gif" alt="portfolio mobile demo gif"/>
+![Awesome Portfolio Website](./readme_assets/banner_apw.png)
 
-<img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/react.svg" height="50" alt="react icon"/>
-<h2>Portfolio Template</h2>
+<div align="center">
 
-<pre>
-⭐ Easy to adapt and deploy portfolio project covering most important 
-sections(about, exp, skills, projects), inspired with solutions found 
-at GitHub. Check live preview(link below).
-</pre>
+<a href="https://github.com/smaranjitghose/awesome-portfolio-websites"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
+<a href="https://github.com/smaranjitghose/awesome-portfolio-websites"><img src="https://img.shields.io/badge/Built%20by-developers%20%3C%2F%3E-0059b3"></a>
+<a href="https://github.com/smaranjitghose/awesome-portfolio-websites"><img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=yellow"></a>
+<a href="https://github.com/smaranjitghose/"><img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?v=103"></a>
+<a href="https://github.com/smaranjitghose/awesome-portfolio-websites/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg?v=103"></a>
 
-<strong>:crown: advantages</strong>
+<a href="https://github.com/smaranjitghose/awesome-portfolio-websites/graphs/contributors"><img src="https://img.shields.io/github/contributors/smaranjitghose/awesome-portfolio-websites?color=brightgreen"></a>
+<a href="https://github.com/smaranjitghose/awesome-portfolio-websites/stargazers"><img src="https://img.shields.io/github/stars/smaranjitghose/awesome-portfolio-websites?color=0059b3"></a>
+<a href="https://github.com/smaranjitghose/awesome-portfolio-websites/network/members"><img src="https://img.shields.io/github/forks/smaranjitghose/awesome-portfolio-websites?color=yellow"></a>
+<a href="https://github.com/smaranjitghose/awesome-portfolio-websites/issues"><img src="https://img.shields.io/github/issues/smaranjitghose/awesome-portfolio-websites?color=0059b3"></a>
+<a href="https://github.com/smaranjitghose/awesome-portfolio-websites/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/smaranjitghose/awesome-portfolio-websites?color=yellow"></a>
+<a href="https://github.com/smaranjitghose/awesome-portfolio-websites/pulls"><img src="https://img.shields.io/github/issues-pr/smaranjitghose/awesome-portfolio-websites?color=brightgreen"></a>
+<a href="https://github.com/smaranjitghose/awesome-portfolio-websites/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/smaranjitghose/awesome-portfolio-websites?color=0059b3"></a>
 
-<img src="https://img.shields.io/badge/-multilingual-blue" alt="multilingual"/> &nbsp; <img src="https://img.shields.io/badge/-mobile friendly-blue" alt="mobile friendly"/> &nbsp; <img src="https://img.shields.io/badge/-light/dark mode-blue" alt="light/dark mode"/> &nbsp; <img src="https://img.shields.io/badge/-json fetched data-blue" alt="json fetched data"/> &nbsp; <img src="https://img.shields.io/badge/-minimalistic-blue" alt="minimalistic"/> &nbsp; <img src="https://img.shields.io/badge/-expandable-blue" alt="expandable"/>
+</div>
 
-<br/>
+A community maintained open source project aimed at making personal portfolio for researchers, developers and analysts simple, fast and less cumbersome. We make sure you have a full fledged website to showcase your work while you can spend time on your learning and innovative endeavours.
 
-<h3>:eye_speech_bubble: Live demo</h3>
+## A sneek peek into what we have here🙈 :
 
-Check live demonstration <a href="https://dorota1997.github.io/react-frontend-dev-portfolio/"><strong>here</strong></a>
+### Home Page:
 
-<img width="100%" src="https://github.com/Dorota1997/react-frontend-dev-portfolio/blob/images/images/react_portfolio_about.png" alt="react frontend dev portfolio preview"/>
+<p align="center"><img src="./readme_assets/Home_Page.gif"></p>
 
-<h3>:books: Getting started</h3>
+### Experience Page:
 
-1. Clone or fork project.
-2. Install required dependencies with `npm install`.
-3. Remove or set `homepage` in `package.json` to single dot. 
-4. `npm start` project and customize it.
-5. Deploy on github-pages using `npm run deploy` command.
+<p align="center"><img src="./readme_assets/Experience_Page.gif"></p>
 
-<pre>
-⚠️ Note that if you have portfolio on different repository than `{username}.github.io`, 
-set `homepage` in `package.json` to `https://{username}.github.io/{repository}/` 
-before deploying portfolio.
-</pre>
+### Project Page:
 
-<h3>:star: Inspirations</h3>
+<p align="center"><img src="./readme_assets/Project_Page.gif"></p>
 
-<a href="https://github.com/stephane-monnot/react-vertical-timeline">React Vertical Timeline</a> <br/>
-<a href="https://github.com/rcaferati/react-awesome-slider">React Awesome Slider</a> <br/>
-<a href="https://github.com/markusenglund/react-switch">React Switch</a> <br/>
-<a href="https://github.com/catalinmiron/react-typical">React Typical</a> <br/>
-<a href="https://iconify.design/icon-sets/?query=angular">Iconify Design</a> <br/>
-<a href="https://www.w3docs.com/snippets/css/how-to-create-polaroid-image-with-css.html#">Polaroid effect</a> <br/>
-<a href="https://tholman.com/github-corners/">GitHub Ref Corner</a>
+### Research Page:
 
-<h3>:memo: Changelog</h3>
+<p align="center"><img src="./readme_assets/Research_Page.gif"></p>
 
-<details>
-<summary>[ 26.05.2021, contributor: <a href="https://github.com/DavidMatalik">@DavidMatalik</a> ]</summary>
-<pre>
-- removed nonexisting logos references: logo192 and logo512.  
-</pre>
-</details>
-<details>
-<summary>[ 17.01.2021, contributor: <a href="https://github.com/igorperic17">@igorperic17</a> ]</summary>
-<pre>
-- wrapped the Typical component into a fixed height div due to the bad transitions for a brief moment between two titles when the string is empty (the content bellow jumps up-down very quickly).
-- removed the title from the page document.title due to the increased title length.
-</pre>
-</details>
-<details>
-<summary>[ 30.11.2020, contributor: <a href="https://github.com/dorota1997">@dorota1997</a> ]</summary>
-<pre>
-- updated readme section
-- fixed problem of json files not being read
-</pre>
-</details>
-<details>
-<summary>[ 29/30.11.2020, contributor: <a href="https://github.com/trolit">@trolit</a> ]</summary>
-<pre>
-- changed resume files names to more "universal"
-- moved languages names to global variables
-- moved section names to json files
-- added target="_blank" for footer links
-- added startDate property for projects
-- excluded common json data to portfolio_shared_data file
-- added header section height calculation based on formula: window.innerHeight - 140
-- small changes to vertical timeline item (color/font-size)
-- project link in modal is not shown if empty
-- changed slider preloader bar color
-- wrapped each skill into tile
-- footer fullname is fetched from json now
-- added mising "px" for avatar in About.js component
-- updated json files content
-- page title is fetched from json data
-- added GitHub reference corner "label"
-- edited page meta
-- added margin, padding 0 for html tag
-- excluded light theme ref from theme-dark file
-- slightly changed Header.js section look
-- made some changes to App.js to apply global variables/shared json etc.
-- centered fullname/pos/theme toggler in Header section
-</pre>
-</details>
+### Education Page:
 
-<h3>:gear: Contribution</h3>
+<p align="center"><img src="./readme_assets/Education_Page.gif"></p>
 
-If you have any suggestions on what to improve in <em>react-frontend-dev-portfolio</em> and would like to share them, feel free to leave an issue or fork project to implement your own ideas :slightly_smiling_face:
+## How to use this?🛠
 
-<h3>:camera: Credits(images)</h3>
+[Check out our awesome Documentation](https://smaranjitghose.github.io/awesome-portfolio-websites/)
 
-Images used in portfolio template come from Pixabay, references:
+## Contribution Guidelines🏗
 
-<a href="https://pixabay.com/photos/people-woman-girl-clothing-eye-2563491/">p1</a>, <a href="https://pixabay.com/photos/dog-puppy-sharpei-petit-animal-1865712/">p2</a>, <a href="https://pixabay.com/photos/night-camera-photographer-photo-1927265/">p3</a>, <a href="https://pixabay.com/photos/road-forest-season-autumn-fall-1072823/">p4</a>, <a href="https://pixabay.com/photos/neuschwanstein-castle-bavaria-701732/">p5</a>, <a href="https://pixabay.com/photos/hohenschwangau-alps-alpsee-bavaria-532864/">p6</a>
+Are we missing any of your favorite features, which you think you can add to it❓ We invite you to contribute to this project and improve it further.
+
+Click on the image below to set up and contribute to the project or [Click here](https://github.com/smaranjitghose/awesome-portfolio-websites/blob/master/CONTRIBUTING.md)
+
+<a href = "https://github.com/smaranjitghose/awesome-portfolio-websites/blob/master/CONTRIBUTING.md">
+<img src = "./readme_assets/Contribution.png"></a>
+
+## Project Maintainers👨🏫::
+
+| <img src = "https://avatars2.githubusercontent.com/u/46641503?v=4" width = 500 height = 250> | <img src = "https://avatars2.githubusercontent.com/u/40017559?v=4" width = 500 height = 250> | <img src = "./readme_assets/srv.jpg" width = 500 height = 250> |
+| :------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :------------------------------------------------------------: |
+|                    [Smaranjit Ghose](https://github.com/smaranjitghose)\*                    |                        [Anush Bhatia](https://github.com/anushbhatia)                        |     [Srividya Inampudi](https://github.com/sriinampudi)\*      |
+
+\*\* Open Source Day 2021
+
+## Our valuable Contributors👩‍💻👨‍💻 :
+
+<a href="https://github.com/smaranjitghose/awesome-portfolio-websites/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=smaranjitghose/awesome-portfolio-websites" />
+</a>
+
+## Open Source Programs we have been a part of:
+
+<p align="center">
+<a href="https://scodein.tech/"><img src="./readme_assets/open_source_programs/sci.png" width= "25%"/></a>
+<a href="https://hakincodes.tech/"><img src="./readme_assets/open_source_programs/ch.png" width= "25%"/></a>
+<a href="https://njackwinterofcode.github.io/"><img src="./readme_assets/open_source_programs/nwoc.png" width= "25%" /></a>
+<a href="https://devscript.tech/woc/"><img src="./readme_assets/open_source_programs/dwoc.png" width="25%"></a>
+<a href="https://mexili.github.io/winter_of_code/#/"><img src="./readme_assets/open_source_programs/mwoc.png" width="25%"></a>
+<a href="https://crosswoc.ieeedtu.in/"><img src="./readme_assets/open_source_programs/crosswoc.png" width="25%"></a>
+<a href="https://letsgrowmore.in/soc/"><img src="./readme_assets/open_source_programs/lgmsoc.png" width="25%"></a>
+<a href="https://devincept.codes/"><img src="./readme_assets/open_source_programs/devincept.gif" width="25%"></a>
+<a href="https://ghc.anitab.org/programs-and-awards/open-source-day/"><img src="./readme_assets/open_source_programs/OSD.jpg" width="25%"></a>
+</p>
