@@ -1,7 +1,7 @@
 window.onload = function () {
   const favicon = document.getElementById("favicon");
   let pageTitle = document.title;
-  let attentionMessage = "Come back";
+  let attentionMessage = "Portfolio | Monsur Hillas";
 
   document.addEventListener("visibilitychange", function (e) {
     let isPageActive = !document.hidden;
@@ -16,17 +16,17 @@ window.onload = function () {
   document.addEventListener("visibilitychange", function (e) {
     if (!document.hidden) {
       document.title = pageTitle;
-      favicon.href = "./assets/images/dp_male.svg";
+      favicon.href = "./assets/images/pumpkin.svg";
     }
   });
 
   function toggle() {
     if (document.title === attentionMessage) {
         document.title = pageTitle;
-        favicon.href = "./assets/images/dp_male.svg";
+        favicon.href = "./assets/images/pumpkin.svg";
     } else {
         document.title = attentionMessage;
-        favicon.href = "./assets/images/folded.png";
+        favicon.href = "./assets/images/pumpkin.svg";
     }
   }   
 };
