@@ -6,11 +6,32 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
+    title: "Junior Program Manager",
+    cardImage: "assets/images/experience-page/shopup.jpg",
+    place: "ShopUp",
+    time: "(Aug, 22 - Present)",
+    desp: "<li> Working as a Junior Program Manager and Maintaing Operations of Mokam Portfolios.</li>"
+  },
+  {
+    title: "Operations Executive",
+    cardImage: "assets/images/experience-page/shopup.jpg",
+    place: "ShopUp",
+    time: "(April, 22 - July,22)",
+    desp: "<li> Worked on two portfolio of Baki i) Apparel ii) Poultry</li><li>Maintained day to day tasks and acted PoC for those Business Units.<li/>"
+  },
+  {
+    title: "Product Management Intern",
+    cardImage: "assets/images/experience-page/shopup.jpg",
+    place: "ShopUp",
+    time: "(Dec, 22 - March, 22)",
+    desp: "<li> Worked as an Intern for the Baki product of Shopup</li><li>Helped their day to day tasks</li><li>Created Necessary Reports and Learned MIS Basics<li/>"
+  },
+  {
     title: "Student Worker",
     cardImage: "assets/images/experience-page/sao.jpg",
     place: "Office of Student Affairs, NSU",
-    time: "(Feb, 21 - Present)",
-    desp: "<li>Working on the web development section for the office</li><li>Building a Wordpress website for the office for better management of works</li><li>Another task is to maintain the website and optimize it.</li>",
+    time: "(Feb, 21 - Sept, 21)",
+    desp: "<li>Worked on the web development section for the office</li><li>Building a Wordpress website for the office for better management of works</li><li>Another task is to maintain the website and optimize it.</li>",
   },
   {
     title: "Computer Vision Research Intern",
