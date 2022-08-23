@@ -27,7 +27,7 @@ const exp = [
     desp: "<li> Worked as an Intern for the Baki product of Shopup</li><li>Helped their day to day tasks</li><li>Created Necessary Reports and Learned MIS Basics<li/>"
   },
   {
-    title: "Student Worker",
+    title: "Student Workor",
     cardImage: "assets/images/experience-page/sao.jpg",
     place: "Office of Student Affairs, NSU",
     time: "(Feb, 21 - Sept, 21)",
