@@ -178,7 +178,13 @@ const timelinesection = [
   {
     heading: "North South University",
     image: "assets/images/education-page/nsulogo.png",
-    subheading: "Bachelor of Science, Computer Science & Engineering, (2017-2021)",
+    subheading: "Masters of Science, Computer Science & Engineering, (2022-present)",
+    description: "Surviving",
+  },
+  {
+    heading: "North South University",
+    image: "assets/images/education-page/nsulogo.png",
+    subheading: "Bachelor of Science, Computer Science & Engineering(CGPA 3.52), (2017-2021)",
     description: "<li>Graduated with CUM-LAUDE Distinction.</li><li>Researched under different faculties</li>",
   },
 

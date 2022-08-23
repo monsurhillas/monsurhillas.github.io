@@ -10,24 +10,24 @@ const exp = [
     cardImage: "assets/images/experience-page/shopup.jpg",
     place: "ShopUp",
     time: "(Aug, 22 - Present)",
-    desp: "<li> Working as a Junior Program Manager and Maintaing Operations of Mokam Portfolios.</li>"
+    desp: "<li> Working as a Junior Program Manager and Maintaing Operations of Mokam Portfolios.</li>",
   },
   {
     title: "Operations Executive",
     cardImage: "assets/images/experience-page/shopup.jpg",
     place: "ShopUp",
     time: "(April, 22 - July,22)",
-    desp: "<li> Worked on two portfolio of Baki i) Apparel ii) Poultry</li><li>Maintained day to day tasks and acted PoC for those Business Units.<li/>"
+    desp: "<li> Worked on two portfolio of Baki i) Apparel ii) Poultry</li><li>Maintained day to day tasks and acted PoC for those Business Units.<li/>",
   },
   {
     title: "Product Management Intern",
     cardImage: "assets/images/experience-page/shopup.jpg",
     place: "ShopUp",
-    time: "(Dec, 22 - March, 22)",
-    desp: "<li> Worked as an Intern for the Baki product of Shopup</li><li>Helped their day to day tasks</li><li>Created Necessary Reports and Learned MIS Basics<li/>"
+    time: "(Dec, 21 - March, 22)",
+    desp: "<li> Worked as an Intern for the Baki product of Shopup</li><li>Helped their day to day tasks</li><li>Created Necessary Reports and Learned MIS Basics<li/>",
   },
   {
-    title: "Student Workor",
+    title: "Student Worker",
     cardImage: "assets/images/experience-page/sao.jpg",
     place: "Office of Student Affairs, NSU",
     time: "(Feb, 21 - Sept, 21)",
